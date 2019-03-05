@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "578179560525",
+    "firebase_url": "https://teamwamp.firebaseio.com",
+    "project_id": "teamwamp",
+    "storage_bucket": "teamwamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578179560525:android:1ea073ad4f7589de",
+        "android_client_info": {
+          "package_name": "com.wampinfotech.teamwamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578179560525-nrgl8aq3ie2d2el8qe3lgvolhrjkt7v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wampinfotech.teamwamp",
+            "certificate_hash": "1859f9cfd60d7ee1b64468f8561e26d272c2c34c"
+          }
+        },
+        {
+          "client_id": "578179560525-1hc2jpuvtotrcpur76ckuv9d94dv4j6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJmQjK3S5mD8ThX5bTxLULHMPnl06ydxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578179560525-1hc2jpuvtotrcpur76ckuv9d94dv4j6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
